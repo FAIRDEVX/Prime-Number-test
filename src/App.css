@@ -56,4 +56,12 @@
   margin: 5px;
 }
 
+.btn-prime {
+  cursor: pointer;
+  color: orange;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
 
